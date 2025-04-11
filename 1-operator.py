@@ -1,8 +1,8 @@
 # Python Program to Demonstrate the Use of Operators
 
 # Input values
-a = 10
-b = 3
+a = 20
+b = 4
 
 # 1. Arithmetic Operators
 print("Arithmetic Operators:")

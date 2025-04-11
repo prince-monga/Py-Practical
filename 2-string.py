@@ -1,6 +1,6 @@
 str1 = "Hey"
-str2 = "Prince"
-str3 = "  Welcome to jammu!  "
+str2 = "Sinesh"
+str3 = "  Welcome to Sirsa!  "
 
 print("\nString Slicing:")
 print("First 3 characters of str1:", str1[:3])
@@ -12,7 +12,7 @@ print("Uppercase:", str1.upper())
 print("Lowercase:", str2.lower())
 
 print("\nString Searching and Replacing:")
-print("Find 'Prince' in str3:", str3.find("Prince"))
+print("Find 'Sinesh' in str3:", str3.find("Sinesh"))
 print("Replace 'Welcome' with 'Hey':", str3.replace("Welcome", "Hey"))
 
 print("\nString Splitting and Joining:")
