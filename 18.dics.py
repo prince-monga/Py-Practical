@@ -1,6 +1,6 @@
 # Creating a dictionary
 student = {
-    "name": "Sinesh",
+    "name": "prince",
     "age": 21,
     "course": "BCA",
     "grade": "A+"
