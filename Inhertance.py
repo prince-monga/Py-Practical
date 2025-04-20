@@ -18,4 +18,4 @@ class passout(student):
 
 s1=passout("prince",21,"BCA","2022")
 s1.display()  #Parent class method call
-s1.Pdisplay() #child class method
+s1.Pdisplay() #child class method 

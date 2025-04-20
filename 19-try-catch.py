@@ -7,7 +7,6 @@ def divide_numbers(a, b):
     finally:
         print("This block always executes, whether there is an exception or not.")
 
-# Example usage
 num1 = int(input("Enter numerator: "))
 num2 = int(input("Enter denominator: "))
 divide_numbers(num1, num2)
